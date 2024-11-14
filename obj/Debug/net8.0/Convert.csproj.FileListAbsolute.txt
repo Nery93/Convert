@@ -1,0 +1,17 @@
+d:\C#\Convert\bin\Debug\net8.0\Convert.exe
+d:\C#\Convert\bin\Debug\net8.0\Convert.deps.json
+d:\C#\Convert\bin\Debug\net8.0\Convert.runtimeconfig.json
+d:\C#\Convert\bin\Debug\net8.0\Convert.dll
+d:\C#\Convert\bin\Debug\net8.0\Convert.pdb
+d:\C#\Convert\obj\Debug\net8.0\Convert.GeneratedMSBuildEditorConfig.editorconfig
+d:\C#\Convert\obj\Debug\net8.0\Convert.AssemblyInfoInputs.cache
+d:\C#\Convert\obj\Debug\net8.0\Convert.AssemblyInfo.cs
+d:\C#\Convert\obj\Debug\net8.0\Convert.csproj.CoreCompileInputs.cache
+d:\C#\Convert\obj\Debug\net8.0\Convert.dll
+d:\C#\Convert\obj\Debug\net8.0\refint\Convert.dll
+d:\C#\Convert\obj\Debug\net8.0\Convert.pdb
+d:\C#\Convert\obj\Debug\net8.0\Convert.genruntimeconfig.cache
+d:\C#\Convert\obj\Debug\net8.0\ref\Convert.dll
+D:\C#\Convert\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\C#\Convert\obj\Debug\net8.0\Convert.csproj.AssemblyReference.cache
+D:\C#\Convert\obj\Debug\net8.0\Convert.csproj.Up2Date
